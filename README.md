@@ -5,8 +5,8 @@
 Just run the Application.java in your IDE.  
 Application is running on http://localhost:9090.
 
-Example
-To exemplify this project, I will be using the idea of a bank where the operations to get cash or deposit money can only happen one at a time.
+### Example
+I will be using the idea of a bank where the operations to get cash or deposit money can only happen one at a time.
 
 Requirements for this example:
 
